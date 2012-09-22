@@ -1,6 +1,6 @@
 {
   "name": "CAPS LOCK DAY",
-  "version": "1.337.1",
+  "version": "1.337.2",
   "manifest_version": 2,
   "description": "WHEN IT'S CAPS LOCK DAY, YOU'LL KNOW IT. REALLY.",
   "content_scripts": [
